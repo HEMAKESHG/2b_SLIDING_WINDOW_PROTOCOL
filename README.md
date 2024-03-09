@@ -44,7 +44,7 @@ while True:
 ```
 
 
-## OUPUT:
+## OUTPUT:
 
 ## Client Output:
 ![Screenshot 2024-03-07 182343](https://github.com/HEMAKESHG/2b_SLIDING_WINDOW_PROTOCOL/assets/144870552/f9856bc2-687b-4128-9a56-72a17bb7bd00)
